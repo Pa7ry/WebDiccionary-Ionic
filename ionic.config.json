@@ -1,0 +1,8 @@
+{
+  "name": "WebDiccionary",
+  "app_id": "f78bfc7c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
